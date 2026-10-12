@@ -8,7 +8,7 @@
 
 *Learning, building, and improving one line of code at a time.*
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Developer at work"/>
+<img src="https://gitub.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Developer at work"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rocwansido-glitch&style=flat&color=64748b&label=PROFILE+VIEWS)](https://github.com/rocwansido-glitch)
 
