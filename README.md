@@ -11,7 +11,7 @@
   <a href="https://t.me/YOUR_TELEGRAM_USERNAME">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:rocwansido@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
