@@ -8,7 +8,7 @@
 
 *Learning, building, and improving one line of code at a time.*
 
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+  <a href="https://t.me/rojwansido">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:rocwansido@gmail.com">
