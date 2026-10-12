@@ -36,23 +36,18 @@ int main()
 
 I'm an Information Engineering student building a strong foundation in programming and software development. I enjoy understanding how things work, solving problems, and turning ideas into code.
 
-## `$ currently_learning`
 
-- **C++** — Programming fundamentals, functions, arrays, and OOP.
-- **Problem Solving** — Improving logical thinking and writing cleaner code.
-- **HTML & CSS** — Exploring the foundations of web development.
-- **English** — Improving my technical vocabulary and communication skills.
 
 ## `$ tools_and_technologies`
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white" alt="Windows"/>
 </p>
+
+## `$ currently_learning`
+
+- **C++** — Programming fundamentals, functions, arrays, and object-oriented programming.
+- **Problem Solving** — Developing logical thinking and writing better code.
 
 ## `$ developer_mindset`
 
